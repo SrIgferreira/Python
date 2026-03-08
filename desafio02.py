@@ -1,0 +1,5 @@
+day=input('Qual é o dia do seu nascimento? ')
+month=input('Qual é o mês do seu nascimento? ')
+year=input('Qual é o ano do seu nascimento? ')
+name=input('Qual é o seu nome? ')
+print('Olá', name, '. Você nasceu na data', day, '/', month, '/', year)
